@@ -1,19 +1,12 @@
-# Find-Your-Site
+# Find-Your-Site Polished Website
 
-A static GitHub Pages website for a self-run local website creation, management, and lead-support business.
+Static GitHub Pages website for Find-Your-Site. Includes home, gallery, discount spinner, lead fishing game, inquiry, about, reviews, and contact pages.
 
-## Pages
-- `index.html` — Home page
-- `gallery.html` — Mock site gallery
-- `discount-spinner.html` — Interactive discount spinner
-- `custom-inquiry.html` — Website inquiry form demo
-- `about.html` — About page
-- `reviews.html` — Reviews page
-- `contact.html` — Contact page
-
-## Files
-- `assets/css/style.css` — Shared styling
-- `assets/js/script.js` — Mobile menu, demo forms, and spinner interaction
-
-## Notes
-The forms are demo-ready and can be connected later to Formspree, Google Forms, EmailJS, Netlify Forms, or a backend endpoint.
+## Updated
+- More professional agency-style structure
+- Local/family/personality-focused copy
+- Corrected Alt Tats & Piercings gallery link
+- Clickable gallery cards
+- Improved discount spinner
+- Improved lead fishing game with sidebar, 5-catch limit, results modal, and restart
+- Pricing, FAQ, reviews, process, and stronger calls to action
